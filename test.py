@@ -1,1 +1,1 @@
-print("Hello world")
+print("Super Workshop! Macht allen sehr viel Spaß")
