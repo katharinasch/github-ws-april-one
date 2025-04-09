@@ -1,1 +1,1 @@
-print("Super Workshop! Macht allen sehr viel Spaß")
+print("Super Workshop! Macht allen sehr viel Spaß?")
