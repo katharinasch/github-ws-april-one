@@ -1,2 +1,2 @@
 # github-ws-april-one
-A workshop repo
+A workshop repo - having fun!!!
